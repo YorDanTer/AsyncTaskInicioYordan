@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AsyncTaskInicio</string>
+        <string name="username_hint">Nombre de usuario</string>
+        <string name="password_hint">Contraseña</string>
+        <string name="login_button_text">Iniciar Sesión</string>
+        <string name="welcome_message">Bienvenido, %1$s</string>
+
+
+
+</resources>
